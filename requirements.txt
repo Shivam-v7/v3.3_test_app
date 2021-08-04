@@ -1,0 +1,13 @@
+pandas == 0.25.2
+numpy == 1.18.5
+scikit-learn == 0.24.2
+streamlit == 0.82.0
+fuzzywuzzy
+regex
+pillow
+werkzeug
+gensim==3.8.3
+spacy
+seaborn
+nltk
+pyLDAvis
